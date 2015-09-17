@@ -3,9 +3,9 @@
  * Copyright 2014 Start Bootstrap
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
-
+@import url(https://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Lora', 'Times New Roman', 'Nanum Gothic', serif;
   font-size: 20px;
   color: #404040;
 }
